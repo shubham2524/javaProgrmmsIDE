@@ -1,10 +1,13 @@
 package oops_Practice_programs;
 class Bap{
 	int landValue = 200000;
+	
 	int HomeValue = 500000;
 	
 }
 class Beta extends Bap {
+	
+	 
 	int carValue = 20000;
 	int BikeValue = 3000;
 	

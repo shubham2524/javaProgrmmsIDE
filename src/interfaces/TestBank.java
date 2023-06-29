@@ -8,6 +8,8 @@ public class TestBank {
 		 sbi.credit();
 		 sbi.moneytransfer();
 		 
+		 System.out.println(sbi.minBalance);
+		 
 		 
 		 
 		 PnbBank pnb = new PnbBank();

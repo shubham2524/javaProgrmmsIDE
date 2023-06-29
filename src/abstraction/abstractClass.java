@@ -1,7 +1,7 @@
 package abstraction;
 
 abstract class Parent{
-	abstract void property();  //abstract method
+	//abstract void property();  //abstract method
 	public void test() {
 		System.out.println("this is non-abstract method");
 	}
