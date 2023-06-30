@@ -3,7 +3,7 @@ package String;
 
 //WAP to print and count no. of vowels in a given string
 
-public class Program2 {
+public class countNoOfVowelsInString {
 
 	public static void main(String[] args) {
 		String s = "shubhamsaurabh";

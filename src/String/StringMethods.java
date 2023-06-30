@@ -1,12 +1,10 @@
 package String;
 
 public class StringMethods {
-	
-	
 	//length() 
 	//charAt()  
 	//equals()
-	//euualIgnoreCase()
+	//equalIgnoreCase()
 	//toUpperCase()
 	//toLowerCase()
 	//replace(oldchar,newchar)
@@ -16,13 +14,11 @@ public class StringMethods {
 	//startsWith
 	//contains()
 	//concat
-	
-	
+	//split
 	
 	 static String s = "shubhamsaurabh";
 	 static String p = "shubham$saurabh123";
-	
-
+	 
 	public static void main(String[] args) {
 		System.out.println(s.length());
 		System.out.println(s.charAt(4));
@@ -35,17 +31,10 @@ public class StringMethods {
 		System.out.println(s.endsWith("saurabh"));
 		System.out.println(s.startsWith("s"));
 		System.out.println(s.contains("msaur"));
-		
 		System.out.println(s.concat(" singh"));
-		
 		System.out.println(p.replaceAll("[0-9]",""));
-		
 		System.out.println(p.replaceAll("[a-z]",""));
-	
-		
-		
-		
-
+		//System.out.println(p.split("$"));
 	}
 
 }

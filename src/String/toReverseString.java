@@ -2,7 +2,7 @@ package String;
 
 //WAP to reverse a string 
 
-public class program3 {
+public class toReverseString {
 	
 	public static void main(String [] args) {
 		

@@ -3,7 +3,7 @@ package String;
 
 //to check weather giver string is palindrom or not
 
-public class program4 {
+public class toCheckPalindrome {
 
 	public static void main(String[] args) {
 		
