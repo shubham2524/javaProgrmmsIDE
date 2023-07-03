@@ -4,7 +4,7 @@ public class StringMethods {
 	//length() 
 	//charAt()  
 	//equals()
-	//equalIgnoreCase()
+	//equalIgnoreCase()---->case sensitivity
 	//toUpperCase()
 	//toLowerCase()
 	//replace(oldchar,newchar)
