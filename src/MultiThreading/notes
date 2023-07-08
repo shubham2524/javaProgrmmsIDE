@@ -1,0 +1,39 @@
+multitasking 
+-----------------
+
+1.)process based multitasking  :- excuting multiple program simultiniously independent to outher program .
+---it is not used in real time programming ..it is for os level.
+
+
+2.)thread based multitasking:-executing multiple task simultiniously where each task is seperate
+   independent path of same program is colled thread based multitasking,each independent path is called thread.
+ --it is used to increase the performance by reducing exuction time of the program.
+ 
+ Thread :-flow of execution having seperate job.
+ we can define it by ywo ways:-
+ 1.By extending thread class
+ ------------------------------
+ 
+ thread scheduler:- it varies from jvm to jvm and output may be differ.
+ 
+--- in multithreding overloading is not valid
+
+---cannot create/overrid start() by the programmer
+
+Life cycle of the thread
+________________________________
+
+Test t  = new Test()----born state --->t.start()-----running -----dead state
+  illegal Thread exception
+  
+ 2.) deffinig a thread by runnable interface
+  ----------------------------------------
+  it is present in java.lang package and it contains only run()
+  
+  //****impementing ruunable interface is recomended 
+  
+  get name and set name of thread
+ 
+
+
+
