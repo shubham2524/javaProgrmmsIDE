@@ -6,6 +6,8 @@ public class ConvertStringInToInt {
 		 String s = "23";
 		 
 		String n = s+"23";
+		//18001088282
+		//10mm-604
 		
 		 //convert String in to int
 		int i =  Integer.parseInt(s);

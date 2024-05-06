@@ -1,5 +1,8 @@
 package Encapsulation;
-//encapsulation is the process of wrapping data with codes with the help of getter and shetter method.
+//The process of wrapping data with codes together in a single unit is called encapsulation.
+//we can make achieve encapsulation:-
+//By making all variable of a class as private we can protect it outside world.
+//with the help of getter and setter method we can set and get the data.
 
 public class test {
 

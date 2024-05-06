@@ -1,6 +1,6 @@
 package String;
 
-//WAP to find the no.of same char in a string 
+//WAP to find the no.of 's' char in a string 
 
 public class countNoOfSameCharInString {
 	public static void main(String[] args) {

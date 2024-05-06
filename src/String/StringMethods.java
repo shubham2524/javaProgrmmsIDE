@@ -20,6 +20,8 @@ public class StringMethods {
 	 static String p = "shubham$saurabh123";
 	 
 	public static void main(String[] args) {
+		
+		
 		System.out.println(s.length());
 		System.out.println(s.charAt(4));
 		System.out.println(s.equals(p));

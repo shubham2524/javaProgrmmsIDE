@@ -3,10 +3,10 @@ package array;
 import java.util.Scanner;
 
 public class arrayWithScannerClass {
-	public static void A1(int a[]) {
+	public static void A1(int b[]) {
 		System.out.println("The elements are");
-		for(int i=0;i<a.length;i++) {
-		System.out.println(a[i]);
+		for(int i=0;i<b.length;i++) {
+		System.out.println(b[i]);
 		}
 		}
 
