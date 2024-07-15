@@ -18,7 +18,7 @@ class Dog extends Animal {
 public class upcasting {
 
 	public static void main(String[] args) {
-		Animal a = new Dog();
+		Animal a = new Dog();//storing child type object to parent ref variable is called upcasting.
 		a.eat();
 		
 
